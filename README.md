@@ -5,18 +5,46 @@
 ## 🚀 About Me
 As a dedicated and passionate Full Stack Software Developer, I take pride in crafting cutting-edge solutions that push the boundaries of technology. With a strong foundation in programming languages and frameworks, I am driven by the desire to create efficient, scalable, optimize, and customer-centric software applications.
 
+# Project Title
 
-## 🛠 Skills
-**Backend:** Spring boot, Spring Framework, Spring Security
+## Introduction
 
-**Frontend:** Angular, React JS, Typescript, Javascript, C3, D3, HTML, CSS    
+Welcome to the project! This README provides an overview of the technical skills and tools utilized in this project.
 
-**Database:** MYSQL, Oracle, postGRES
+## Technical Skills
 
-**IDPs:** Okta
+### Languages
+- Java, Scala, Javascript, C, C++, Python, C#, SQL, HTML, CSS
 
-**Server:** Node, Tomcat
+### Frameworks & Libraries
+- Spring Boot, JUnit, Mockito, Angular, React, Redux, RxJs, Flask, .NET MVC, Node.js, Express.js
 
+### Databases
+- SQL Server, MySQL, Oracle, MongoDB, Cassandra, PostgreSQL
+
+### Tools
+- Git, Bitbucket, Postman, Jira, Jenkins, AWS Cloud, Docker, Tomcat
+
+### Testing Tools
+- Selenium, Puppeteer, Cucumber, SonarQube
+
+### Data Analytics
+- R, Apache Spark, Hadoop, Tableau
+
+### Additional Full-Stack Developer Skills
+- **Frontend**: HTML5, CSS3, Bootstrap, jQuery
+- **Backend**: RESTful APIs, Microservices Architecture
+- **Version Control**: Git, GitHub, Bitbucket
+- **DevOps**: CI/CD, Jenkins, Docker, Kubernetes
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **Web Servers**: Apache, Nginx
+- **ORM**: Hibernate, SQLAlchemy
+- **Authentication and Authorization**: OAuth, JWT
+- **Frontend Testing**: Jest, Enzyme
+- **Backend Testing**: JUnit, TestNG
+
+### Soft Skills
+- Adaptability, Creativity, Leadership, Teamwork
 
 ## 🔗 Links
 

@@ -5,12 +5,6 @@
 ## 🚀 About Me
 As a dedicated and passionate Full Stack Software Developer, I take pride in crafting cutting-edge solutions that push the boundaries of technology. With a strong foundation in programming languages and frameworks, I am driven by the desire to create efficient, scalable, optimize, and customer-centric software applications.
 
-# Project Title
-
-## Introduction
-
-Welcome to the project! This README provides an overview of the technical skills and tools utilized in this project.
-
 ## Technical Skills
 
 ### Languages
